@@ -1,4 +1,4 @@
-var http = require('http');
+-vvar http = require('http');
 
 //console.log('Criando um site de noticias com node js');
 
